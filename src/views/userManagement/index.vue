@@ -1,13 +1,5 @@
 <template>
-  <div id="userManagement">用户管理</div>
+    <div id="userManagement">
+        <h3>用户管理</h3>
+    </div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-
-    }
-  },
-}
-</script>
-

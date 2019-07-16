@@ -1,13 +1,5 @@
 <template>
-  <div id="commonProblem">常见问题</div>
+    <div id="commonProblem">
+        <h3>常见问题</h3>
+    </div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-
-    }
-  },
-}
-</script>
-
